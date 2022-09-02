@@ -1,1 +1,1 @@
-# Shell-Scripting-Project_-Restaurent-Management-System-
+This is Restaurent-Management-System project which is in Shell-Scripting. This is a simple project where show the menu and after order final order it will give total bill with order item name and Quantity.
